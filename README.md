@@ -40,3 +40,4 @@ Run `npm run build`. Vite writes the static site to `dist/`. The handoff describ
 ## Expected API
 
 The frontend uses the `/api` routes in `AirWard_Team_Handoff.json`: `/health`, `/cities`, `/{city}/meta`, `/{city}/map`, `/{city}/forecast`, `/{city}/nearest`, `/{city}/explain`, `/{city}/simulate` and `/{city}/diwali`.
+ 
